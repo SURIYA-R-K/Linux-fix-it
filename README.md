@@ -34,16 +34,16 @@ Linux is powerful, but sometimes things go wrong. Here are some quick tips to di
 
 ### Debian/Ubuntu:
 
-'''bash
+```bash
 sudo apt --fix-broken install  
 sudo dpkg --configure -a  
-
+```
 ### RHEL/CentOS:
 
-bash
-sudo dnf clean all  
+```bash
+sudo dnf clean all
 sudo dnf update  
-
+```
 ## 🔄 System & Boot Issues
 
 * sudo update-grub → Fix bootloader
