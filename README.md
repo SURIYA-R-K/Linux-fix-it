@@ -59,3 +59,8 @@ sudo dnf update
 * shutdown -h now → Shutdown immediately
 
 ## 💡 This is just a basic guide.
+## contents:
+
+✅ "How to encrypt a folder in Linux"
+
+✅ "How to decrypt a folder in Linux"
